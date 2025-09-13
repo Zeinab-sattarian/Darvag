@@ -3087,11 +3087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\onena\\OneDrive\\Desktop\\coding\\Ecommerce\\Restore\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\onena\\OneDrive\\Desktop\\coding\\Ecommerce\\Restore\\Darvag\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\onena\\OneDrive\\Desktop\\coding\\Ecommerce\\Restore\\API\\API.csproj",
+      "projectPath": "C:\\Users\\onena\\OneDrive\\Desktop\\coding\\Ecommerce\\Restore\\Darvag\\API\\API.csproj",
       "packagesPath": "C:\\Users\\onena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\onena\\OneDrive\\Desktop\\coding\\Ecommerce\\Restore\\API\\obj\\",
+      "outputPath": "C:\\Users\\onena\\OneDrive\\Desktop\\coding\\Ecommerce\\Restore\\Darvag\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\onena\\AppData\\Roaming\\NuGet\\NuGet.Config"
